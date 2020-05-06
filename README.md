@@ -1,2 +1,1 @@
-# volodymyrbarnetskyi.io
 My site
